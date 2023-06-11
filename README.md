@@ -1,16 +1,27 @@
-### Hi there 👋
+# **Hi，感谢您在茫茫人海中来到我的主页👏🎉**
 
-<!--
-**SongChaotian/SongChaotian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Attitude Towards Life
+> I believe that every day that follows is a lucky ambush!<br>
 
-Here are some ideas to get you started:
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=900&height=22&lines=I+believe+that+every+day+that+follows+is+a+lucky+ambush!++%F0%9F%91%8B)
+---
+### My Page View
+![Visitor Count](https://profile-counter.glitch.me/SongChaotian/count.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+### Learn More About me
+You can find me in the following ways:
++ My CSDN: [My CSDN](https://blog.csdn.net/weixin_45838535?spm=1000.2115.3001.5343)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongChaotian)
+
+![Song Chaotian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongChaotian&show_icons=true&theme=react)
+
+
+
+
+
+
